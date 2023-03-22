@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnamaeApp</string>
+    <string name="start">START</string>
+    <string name="name">Name</string>
+    <string name="tvName">〇〇さん</string>
+    <string name="back">戻る</string>
+    <string name="hello">こんにちは</string>
+</resources>
